@@ -1,0 +1,6 @@
+{
+  "name": "HR Study RBSE",
+  "description": "राजस्थान बोर्ड (RBSE) कक्षा 9वीं से 12वीं के विद्यार्थियों के लिए उत्कृष्ट अध्ययन सामग्री, पाठ्यपुस्तक समाधान, हस्तलिखित नोट्स, मॉडल पेपर्स एवं ऑनलाइन क्विज़।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
